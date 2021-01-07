@@ -601,6 +601,11 @@ li {
 
 /* Custom Styling */
 
+.page-heding-content {
+    margin: auto;
+    max-width: 640px;
+}
+
 input[type=checkbox] {
     transform: scale(1.5);
 }
